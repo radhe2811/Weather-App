@@ -67,8 +67,7 @@ const apiKey = "YOUR_API_KEY";
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/weather-app/
-
+file:///C:/Users/radhe/OneDrive/Desktop/Projects/Weather%20App/index.html
 ---
 
 ## 📸 Screenshot
@@ -76,6 +75,8 @@ https://yourusername.github.io/weather-app/
 (Add your project screenshot here)
 
 ```
+<img width="531" height="537" alt="image" src="https://github.com/user-attachments/assets/9b631d45-5808-4a67-81cc-f1313c50fa8b" />
+
 images/screenshot.png
 ```
 
